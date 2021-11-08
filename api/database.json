@@ -1,0 +1,39 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Stephen King"
+    },
+    {
+      "id": 2,
+      "name": "John Grisham"
+    },
+    {
+      "id": 3,
+      "name": "J.R.R. Tolkien"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "topic": "Business"
+    },
+    {
+      "id": 2,
+      "topic": "Friendly"
+    },
+    {
+      "id": 3,
+      "topic": "Family"
+    },
+    {
+      "id": 4,
+      "topic": "Congratulations"
+    },
+    {
+      "id": 5,
+      "topic": "Condolences"
+    }
+  ],
+  "letters": []
+}
